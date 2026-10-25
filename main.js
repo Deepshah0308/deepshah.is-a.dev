@@ -185,7 +185,7 @@ const commands = {
     print("endpoint management   identity & access   m365 & copilot   automation", "dim");
   },
   contact() {
-    printLink("Deep030899@gmail.com", "mailto:Deep030899@gmail.com");
+    printLink("shahdeepv03@gmail.com", "mailto:shahdeepv03@gmail.com");
     printLink("github.com/Deepshah0308", "https://github.com/Deepshah0308");
   },
   clear() { out.replaceChildren(); },
